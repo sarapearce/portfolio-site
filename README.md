@@ -3,11 +3,11 @@ ToC: <br>
 2. Contributing tech <br>
 3. License<br>
 
-<u>1. What Does This Project Do</u> <br>
+<em>1. What Does This Project Do</em> <br>
 
 This is my portfolio site. It went up really fast (about 1.5 days for everything) right before SXSW when I realized I should have my own site to supplement all my client work. :) It is built as a Wordpress Multi-site for future use by myself to put up mockups with Beaver Builder to show clients during prototyping. 
 
-2. Contributing Tech <br>
+<em>2. Contributing Tech</em> <br>
 
 Architecture: <br>
 Wordpress https://wordpress.org/download <br>
@@ -26,7 +26,7 @@ Performance: <br>
 Tiny PNG https://wordpress.org/plugins/tiny-compress-images/ <br>
 More TBD, the site is really lightweight right now since I haven't added images yet, not sure how much optimization necessary <br>
 
-
+3. This site is licensed under GNU General Public License. 
 
 # portfolio-site
 Components of source code for portfolio site hosted at http://sarapearce.net
