@@ -24,7 +24,7 @@ Wordfence https://www.wordfence.com/ <br>
 
 Performance: <br>
 Tiny PNG https://wordpress.org/plugins/tiny-compress-images/ <br>
-More TBD, the site is really lightweight right now since I haven't added images yet, not sure how much optimization necessary <br>
+More TBD, the site is really lightweight right now since I haven't added many pages/posts yet, not sure how much optimization necessary <br>
 
 3. This site is licensed under GNU General Public License. 
 
