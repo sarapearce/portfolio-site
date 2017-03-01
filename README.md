@@ -25,7 +25,7 @@ Performance: <br>
 Tiny PNG https://wordpress.org/plugins/tiny-compress-images/ <br>
 More TBD, the site is really lightweight right now since I haven't added many pages/posts yet, not sure how much optimization necessary <br>
 
-3. License <br> 
+<em>3. License </em><br> 
 
 This site is licensed under GNU General Public License. <br>
 
