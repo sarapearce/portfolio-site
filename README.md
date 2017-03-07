@@ -17,6 +17,7 @@ Beaver Builder Add Ons https://www.ultimatebeaver.com/ <br>
 Beaver Builder Header and Footer https://wordpress.org/plugins/bb-header-footer/installation/ <br>
 Beaver Builder Pro Plugin https://www.wpbeaverbuilder.com/ <br>
 Use Any Font https://wordpress.org/plugins/use-any-font/ <br>
+mfizz icon library http://fizzed.com/oss/font-mfizz <br>
 
 Security: <br>
 Wordfence https://www.wordfence.com/ <br>
