@@ -4,7 +4,7 @@
 
 <em>1. What This Project Does</em> <br>
 
-This is my portfolio site. It went up really fast (about 1.5 days for everything) right before SXSW when I realized I should have my own site to supplement all my client work. :) It is built as a Wordpress Multi-site for future use by myself to put up mockups with Beaver Builder to show clients during prototyping. 
+This is version of my portfolio site. It went up really fast (about 1.5 days for everything) right before SXSW when I realized I should have my own site to supplement all my client work. :) It is built as a Wordpress Multi-site for future use by myself to put up mockups with Beaver Builder to show clients during prototyping. 
 
 <em>2. Contributing Tech</em> <br>
 
