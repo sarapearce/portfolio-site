@@ -4,12 +4,12 @@
 
 <em>1. What This Project Does</em> <br>
 
-This is version of my portfolio site. It went up really fast (about 1.5 days for everything) right before SXSW when I realized I should have my own site to supplement all my client work. :) It is built as a Wordpress Multi-site for future use by myself to put up mockups with Beaver Builder to show clients during prototyping. 
+This is my current portfolio site. It's in an ongoing state of improvements, tweaks to design, and bug fixes. Feel free to report any issues you see to me at sara@leftturnonly.tv.
 
 <em>2. Contributing Tech</em> <br>
 
 Architecture: <br>
-Wordpress https://wordpress.org/download <br>
+Wordpress: https://wordpress.org/download (current version)<br>
 
 Layout: <br>
 Beaver Builder Pro https://www.wpbeaverbuilder.com/ <br>
