@@ -2,7 +2,7 @@
 
 <em>What This Project Does</em> <br>
 
-This is my current portfolio site. It's in an ongoing state of improvements, tweaks to design, and bug fixes. Feel free to report any issues you see to me at sara@leftturnonly.tv.
+This is my current portfolio site. It's in an ongoing state of improvements, tweaks to design, and bug fixes. Feel free to report any issues you see to me at sarapearce3.14@gmail.com.
 
 <em>Contributing Tech</em> <br>
 
